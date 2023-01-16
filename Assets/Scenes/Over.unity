@@ -272,6 +272,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: LandingPad
       objectReference: {fileID: 0}
+    - target: {fileID: 131945464158479742, guid: 012f8688f12eb03489c838a2eee336c2, type: 3}
+      propertyPath: m_TagString
+      value: Finish
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 012f8688f12eb03489c838a2eee336c2, type: 3}
 --- !u!1 &963194225
@@ -448,7 +452,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2046963355}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -30.1, y: 7, z: 0}
+  m_LocalPosition: {x: -30.1, y: 4.13, z: 0}
   m_LocalScale: {x: 10, y: 8.174999, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -509,6 +513,10 @@ PrefabInstance:
     - target: {fileID: 131945464158479742, guid: 012f8688f12eb03489c838a2eee336c2, type: 3}
       propertyPath: m_Name
       value: LaunchPad
+      objectReference: {fileID: 0}
+    - target: {fileID: 131945464158479742, guid: 012f8688f12eb03489c838a2eee336c2, type: 3}
+      propertyPath: m_TagString
+      value: Friendly
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 012f8688f12eb03489c838a2eee336c2, type: 3}
